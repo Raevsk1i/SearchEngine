@@ -1,4 +1,4 @@
-package com.example.searchengine;
+package com.searchengine;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
